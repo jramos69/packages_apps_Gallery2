@@ -144,8 +144,8 @@
     <dimen name="touch_circle_size">8dp</dimen>
 
     <!-- configuration for album set page -->
-    <dimen name="album_set_item_image_height">120dp</dimen>
-    <dimen name="album_set_item_width">140dp</dimen>
+    <dimen name="album_set_item_image_height">80dp</dimen>
+    <dimen name="album_set_item_width">100dp</dimen>
 
     <!-- configuration for preview in editor -->
     <dimen name="photoeditor_text_size">12dp</dimen>
