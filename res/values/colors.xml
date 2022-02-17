@@ -20,7 +20,7 @@
     <color name="primary_dark">#C62828</color>
     <color name="accent">#E53935</color>
 
-    <color name="ic_launcher_gallery_background">#4285f4</color>
+    <color name="ic_launcher_gallery_background">#e64a19</color>
 
     <!-- configuration for album set page -->
     <color name="albumset_background">#171717</color>
